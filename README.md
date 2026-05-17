@@ -9,14 +9,14 @@ cd satoshi-market-archive
 python3 -m http.server 4173
 ```
 
-브라우저에서 `http://localhost:4173/`를 엽니다. 실제 아카이브는 `/ecommerce/` 경로에 있고, 루트 `index.html`은 `/ecommerce/`로 이동시킵니다.
+브라우저에서 `http://localhost:4173/`를 엽니다. 루트 주소와 `/ecommerce/` 주소 모두 같은 아카이브를 보여줍니다.
 
 ## 구성
 
-- `index.html`: `/ecommerce/`로 이동시키는 루트 페이지
+- `index.html`: 루트 주소에서 바로 보이는 박물관형 정적 웹사이트
 - `CNAME`: GitHub Pages custom domain 설정용 파일
 - `.nojekyll`: GitHub Pages가 정적 파일을 그대로 서빙하도록 하는 파일
-- `ecommerce/index.html`: 박물관형 정적 웹사이트
+- `ecommerce/index.html`: 기존 `/ecommerce/` 경로 보존용 박물관형 정적 웹사이트
 - `ecommerce/styles.css`: 레이아웃과 전시 스타일
 - `ecommerce/archive-data.json`: 원본 WordPress API에서 가져온 페이지/상품 메타데이터
 - `ecommerce/assets/`: 내려받은 이미지와 누락 이미지 placeholder

@@ -1,10 +1,13 @@
 import { access, mkdir, writeFile } from "node:fs/promises";
 import { createHash } from "node:crypto";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
 
 const ROOT = new URL("https://satoshimarket.biz/ecommerce/");
 const API = new URL("wp-json/wp/v2/", ROOT);
-const OUT = path.resolve("satoshi-market-archive/ecommerce");
+const SCRIPT_DIR = path.dirname(fileURLToPath(import.meta.url));
+const SITE_ROOT = path.resolve(SCRIPT_DIR, "..");
+const OUT = path.join(SITE_ROOT, "ecommerce");
 const ASSETS = path.join(OUT, "assets");
 const MISSING_IMAGE = "assets/missing.svg";
 const GENERATED_AT = new Date().toISOString().slice(0, 10);
@@ -703,8 +706,15 @@ const data = {
   products: products.map(({ id, date, modified, link, slug, title, excerpt, featured_media, archiveImage }) => ({ id, date, modified, link, slug, title, excerpt, featured_media, archiveImage })),
 };
 
+const ecommerceHtml = renderHtml({ pages, products });
+const rootHtml = ecommerceHtml
+  .replace('<link rel="stylesheet" href="styles.css">', '<link rel="stylesheet" href="ecommerce/styles.css">')
+  .replaceAll('src="assets/', 'src="ecommerce/assets/')
+  .replaceAll('href="assets/', 'href="ecommerce/assets/');
+
 await writeFile(path.join(OUT, "archive-data.json"), JSON.stringify(data, null, 2));
-await writeFile(path.join(OUT, "index.html"), renderHtml({ pages, products }));
+await writeFile(path.join(OUT, "index.html"), ecommerceHtml);
 await writeFile(path.join(OUT, "styles.css"), css);
+await writeFile(path.join(SITE_ROOT, "index.html"), rootHtml);
 
 console.log(`Done: ${pages.length} pages, ${products.length} products, ${imageMap.size} images.`);
