@@ -1,0 +1,293 @@
+{
+  "source": "https://satoshimarket.biz/ecommerce/",
+  "generatedAt": "2026-05-17T09:48:54.909Z",
+  "counts": {
+    "pages": 8,
+    "products": 10,
+    "images": 333
+  },
+  "pages": [
+    {
+      "id": 6,
+      "date": "2023-03-24T22:53:37",
+      "modified": "2025-12-06T19:06:43",
+      "link": "https://satoshimarket.biz/ecommerce/",
+      "slug": "shop",
+      "title": {
+        "rendered": ""
+      },
+      "excerpt": {
+        "rendered": "",
+        "protected": false
+      },
+      "archiveImage": "assets/DALL-E-2024-03-11-16.46.07-A-beautiful-girl-Bishojo-gazing-t-db83e448af.webp"
+    },
+    {
+      "id": 7,
+      "date": "2023-03-24T22:53:38",
+      "modified": "2023-03-24T22:53:38",
+      "link": "https://satoshimarket.biz/ecommerce/cart",
+      "slug": "cart",
+      "title": {
+        "rendered": "Cart"
+      },
+      "excerpt": {
+        "rendered": "",
+        "protected": false
+      },
+      "archiveImage": ""
+    },
+    {
+      "id": 8,
+      "date": "2023-03-24T22:53:38",
+      "modified": "2023-03-24T22:53:38",
+      "link": "https://satoshimarket.biz/ecommerce/checkout",
+      "slug": "checkout",
+      "title": {
+        "rendered": "Checkout"
+      },
+      "excerpt": {
+        "rendered": "",
+        "protected": false
+      },
+      "archiveImage": ""
+    },
+    {
+      "id": 9,
+      "date": "2023-03-24T22:53:39",
+      "modified": "2023-03-24T22:53:39",
+      "link": "https://satoshimarket.biz/ecommerce/my-account",
+      "slug": "my-account",
+      "title": {
+        "rendered": "My account"
+      },
+      "excerpt": {
+        "rendered": "",
+        "protected": false
+      },
+      "archiveImage": ""
+    },
+    {
+      "id": 75,
+      "date": "2023-03-25T22:43:23",
+      "modified": "2024-12-05T22:32:32",
+      "link": "https://satoshimarket.biz/ecommerce/home",
+      "slug": "home",
+      "title": {
+        "rendered": "About Us"
+      },
+      "excerpt": {
+        "rendered": "<p>사토시마켓은 비트코인이 단순히 더 많은 fiat을 얻기 위한 투기 수단이 아닌, 사토시 나카모토가 의도한 대로 실제 생활에서 fiat를 대체하여 사용될 수 있는 &#8220;P2P 전자 화폐&#8221;임을 증명하기 위해 만든 인터넷 쇼핑몰입니다.Satoshi Market is an online marketplace created to show that Bitcoin is not merely a speculative tool for acquiring more fiat currency but a “P2P electronic [&hellip;]</p>\n",
+        "protected": false
+      },
+      "archiveImage": "assets/image-4-20a9e727c3.png"
+    },
+    {
+      "id": 400,
+      "date": "2023-04-05T08:07:27",
+      "modified": "2026-05-03T12:36:18",
+      "link": "https://satoshimarket.biz/ecommerce/home/%ec%82%ac%ed%86%a0%ec%8b%9c-%eb%a7%88%ec%bc%93-%ec%9d%bc%ec%a7%80",
+      "slug": "%ec%82%ac%ed%86%a0%ec%8b%9c-%eb%a7%88%ec%bc%93-%ec%9d%bc%ec%a7%80",
+      "title": {
+        "rendered": "사토시 마켓 일지"
+      },
+      "excerpt": {
+        "rendered": "<p>2023년 시작 사토시 마켓을 운영하면서 배운 것들을 정리하는 페이지 입니다. wordpress.org&nbsp;: 설치형 설치형은 뮤료지만 우선 호스트업체에서 가입을 한 다음에 사용해야 한다. wordpress.com&nbsp;: 가입형 가입형의 경우에는 따로 호스트업체를 가입할 필요는 없지만 돈을 내야 한다. 워드프레스의 임시 도메인과 내가 블루호스트에서 산 도메인이 연결되지 않을 때는 라이트닝 바자회는 동작할 수 있을까? 이것이 동작하기 위해선 사람들이 자신이 아끼는 물건을 [&hellip;]</p>\n",
+        "protected": false
+      },
+      "archiveImage": "assets/2023-04-03---12.19.09-1-d8f1a02cd6.png"
+    },
+    {
+      "id": 359,
+      "date": "2023-04-02T23:09:56",
+      "modified": "2025-01-13T21:41:17",
+      "link": "https://satoshimarket.biz/ecommerce/home/join-the-market",
+      "slug": "join-the-market",
+      "title": {
+        "rendered": "입점 신청하기"
+      },
+      "excerpt": {
+        "rendered": "<p>사토시마켓에 입점을 희망하시는 분들을 위한 페이지 입니다. 마켓은 입점자의 자격에 따라 다음과 같이 운영됩니다. 입점자는 (a) 파트너, (b) 링커로 나뉩니다. 입점자 자격 구분 고객들이 결제를 하는 곳 사토시 마켓에 기부금 제공 여부 주문 정보 전달 흐름 결제금 전달 파트너 Partner 사토시마켓 해당사항 없음 고객 &gt;&gt;사토시마켓 &gt;&gt;입점자(매일 밤 10시) 사토시마켓&gt;&gt;입점자 링커 Linker 링커가 원하는 웹사이트 (링커의 [&hellip;]</p>\n",
+        "protected": false
+      },
+      "archiveImage": ""
+    },
+    {
+      "id": 2,
+      "date": "2023-03-24T22:51:33",
+      "modified": "2025-04-15T20:46:07",
+      "link": "https://satoshimarket.biz/ecommerce/home/sample-page",
+      "slug": "sample-page",
+      "title": {
+        "rendered": "기부하기"
+      },
+      "excerpt": {
+        "rendered": "<p>당분간 사토시마켓에 기부금 받기를 중단합니다(2025.04.15~) 그간 기부해주신 많은 분들 모두 감사드립니다!</p>\n",
+        "protected": false
+      },
+      "archiveImage": "assets/IMG_2071-463fc86e84.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 3216,
+      "date": "2025-06-25T22:06:15",
+      "modified": "2025-08-10T09:17:58",
+      "link": "https://satoshimarket.biz/ecommerce/product/bip39-plate25",
+      "slug": "bip39-plate25",
+      "title": {
+        "rendered": "BIP39 PLATE25"
+      },
+      "excerpt": {
+        "rendered": "<div>BIP39 PLATE25 (파트너 : BIP39)</div>\n<div></div>\n<div>사토시 마켓은 본 제품의 판매에</div>\n<div>어떠한 대가도 받지 않습니다.</div>\n<div></div>\n<div></div>\n<div>배송료 포함 가격입니다.</div>\n<div></div>\n<div>❓배송 등 문의사항 카톡링크<span lang=\"EN-US\"><span lang=\"EN-US\">(</span></span>고객센터<span lang=\"EN-US\">) : <a href=\"https://open.kakao.com/o/sF3DbLCh\">https://open.kakao.com/o/sF3DbLCh</a></span></div>\n",
+        "protected": false
+      },
+      "featured_media": 3232,
+      "archiveImage": "assets/0001-bf97c76f7d.jpeg"
+    },
+    {
+      "id": 3143,
+      "date": "2025-06-16T20:50:23",
+      "modified": "2025-12-06T18:28:42",
+      "link": "https://satoshimarket.biz/ecommerce/product/%eb%b9%84%ed%8a%b8%ec%bd%94%ec%9d%b8%ec%bb%b5",
+      "slug": "%eb%b9%84%ed%8a%b8%ec%bd%94%ec%9d%b8%ec%bb%b5",
+      "title": {
+        "rendered": "멜팅굿즈 비트코인머그컵 (링크제품)"
+      },
+      "excerpt": {
+        "rendered": "<div><span style=\"color: #000000;\">멜팅굿즈 비트코인머그컵 (링커 : 멜팅굿즈)</span></div>\n<div><span style=\"color: #000000;\">이것은 제품을 소개하는 목적의 링크 제품으로 실제 구매는 사토시마켓이 아닌 아래 판매자 웹사이트로 이동하여 진행하셔야 합니다.</span></div>\n<div></div>\n<div><span style=\"color: #000000;\">판매자 웹사이트 방문하기 : <a href=\"https://smartstore.naver.com/meltingoods/products/12153929246\">https://m.smartstore.naver.com/meltingoods</a></span></div>\n<div></div>\n<div><span style=\"color: #000000;\">사토시마켓은 본 제품의 판매나 소개에 대해 어떠한 대가도 받지 않습니다. </span></div>\n<div></div>\n",
+        "protected": false
+      },
+      "featured_media": 3314,
+      "archiveImage": "assets/Unknown-2-0af2991bef.png"
+    },
+    {
+      "id": 3136,
+      "date": "2025-06-16T20:35:20",
+      "modified": "2025-12-06T19:08:42",
+      "link": "https://satoshimarket.biz/ecommerce/product/tinsb-%ed%8b%b0%ed%83%80%eb%8a%84-%eb%8b%88%eb%aa%a8%eb%8b%89-%ed%97%a5%ec%82%ac%eb%b0%94%ec%8a%a4%ed%83%a0%eb%8b%a4%eb%93%9c",
+      "slug": "tinsb-%ed%8b%b0%ed%83%80%eb%8a%84-%eb%8b%88%eb%aa%a8%eb%8b%89-%ed%97%a5%ec%82%ac%eb%b0%94%ec%8a%a4%ed%83%a0%eb%8b%a4%eb%93%9c",
+      "title": {
+        "rendered": "TINSB 티타늄 니모닉 헥사바(스탠다드팩) (링크제품)"
+      },
+      "excerpt": {
+        "rendered": "<div>TINSB 티타늄 니모닉 헥사바(스탠다드팩) (링커 : 틴스비)</div>\n<div>\n<div>이것은 제품을 소개하는 목적의 링크 제품으로 <strong>실제 구매는 사토시마켓이 아닌 아래 판매자 웹사이트로 이동하여 진행</strong>하셔야 합니다.</div>\n<div></div>\n<div>판매자 웹사이트 방문하기 : <a href=\"https://store.btcmap.kr/stores/TINSB/product/16/\">https://store.btcmap.kr/stores/TINSB/product/16/</a></div>\n</div>\n<div></div>\n<div>사토시 마켓은 본 제품의 판매에</div>\n<div>어떠한 대가도 받지 않습니다.</div>\n<div></div>\n<div></div>\n<div>배송료 포함 가격입니다.</div>\n<div></div>\n<div>❓배송 등 문의사항 카톡링크<span lang=\"EN-US\">(</span>틴스비 고객센터<span lang=\"EN-US\">) : </span><span lang=\"EN-US\"><a href=\"https://open.kakao.com/o/s4hFO55g\">https://open.kakao.com/o/s4hFO55g</a></span></div>\n",
+        "protected": false
+      },
+      "featured_media": 3137,
+      "archiveImage": "assets/1-1-b26258ef26.jpg"
+    },
+    {
+      "id": 2842,
+      "date": "2025-02-04T22:18:42",
+      "modified": "2025-04-01T08:09:16",
+      "link": "https://satoshimarket.biz/ecommerce/product/%eb%b9%84%ed%8a%b8%ec%bd%94%ec%9d%b8-%eb%b0%b1%ec%84%9c-%ed%95%b4%ec%84%a4-%eb%a7%81%ed%81%ac-%ec%a0%9c%ed%92%88",
+      "slug": "%eb%b9%84%ed%8a%b8%ec%bd%94%ec%9d%b8-%eb%b0%b1%ec%84%9c-%ed%95%b4%ec%84%a4-%eb%a7%81%ed%81%ac-%ec%a0%9c%ed%92%88",
+      "title": {
+        "rendered": "비트코인 백서 해설 (링크 제품)"
+      },
+      "excerpt": {
+        "rendered": "<div>\n<div><span style=\"color: #000000;\">비트코인 백서 해설 (링커 : 필레몬/바우키스)</span></div>\n<div><span style=\"color: #000000;\">이것은 제품을 소개하는 목적의 링크 제품으로 <strong><span style=\"color: #0000ff;\">실제 구매는 사토시마켓이 아닌 아래 판매자 웹사이트로 이동하여 진행</span></strong>하셔야 합니다.</span></div>\n<div></div>\n<div><span style=\"color: #000000;\">판매자 웹사이트 방문하기 : <a href=\"https://store.phileucis.com/notice-002/\">https://store.phileucis.com/notice-002/</a></span></div>\n<div><span style=\"color: #000000;\">❓배송 등 문의사항 이메일 : phileucis@gmail.com</span></div>\n<div></div>\n<div><span style=\"color: #000000;\">사토시마켓은 본 제품의 판매에 대해 어떠한 대가도 받지 않습니다. </span></div>\n</div>\n<p>&nbsp;</p>\n",
+        "protected": false
+      },
+      "featured_media": 3001,
+      "archiveImage": "assets/.png-2d9a1ba9e9.jpg"
+    },
+    {
+      "id": 2748,
+      "date": "2025-01-13T22:52:03",
+      "modified": "2025-02-05T07:01:33",
+      "link": "https://satoshimarket.biz/ecommerce/product/%ec%8b%9c%eb%93%9c%ec%82%ac%ec%9d%b4%eb%84%88-%eb%a7%81%ed%81%ac-%ec%a0%9c%ed%92%88",
+      "slug": "%ec%8b%9c%eb%93%9c%ec%82%ac%ec%9d%b4%eb%84%88-%eb%a7%81%ed%81%ac-%ec%a0%9c%ed%92%88",
+      "title": {
+        "rendered": "시드사이너 (링크 제품)"
+      },
+      "excerpt": {
+        "rendered": "<div><span style=\"color: #000000;\">시드사이너 (링커 : 비트키트)</span></div>\n<div><span style=\"color: #000000;\">이것은 제품을 소개하는 목적의 링크 제품으로 실제 구매는 사토시마켓이 아닌 아래 판매자 웹사이트로 이동하여 진행하셔야 합니다.</span></div>\n<div></div>\n<div><span style=\"color: #000000;\">판매자 웹사이트 방문하기 : <a style=\"color: #000000;\" href=\"https://smartstore.naver.com/bitkit\">https://smartstore.naver.com/bitkit</a></span></div>\n<div></div>\n<div><span style=\"color: #000000;\">사토시마켓은 본 제품의 판매에 대해 어떠한 대가도 받지 않습니다. </span></div>\n<div></div>\n",
+        "protected": false
+      },
+      "featured_media": 2749,
+      "archiveImage": "assets/1-3-d82abbdff1.png"
+    },
+    {
+      "id": 2416,
+      "date": "2024-12-23T23:28:53",
+      "modified": "2025-06-30T22:57:58",
+      "link": "https://satoshimarket.biz/ecommerce/product/tinsb-%eb%8b%88%eb%aa%a8%eb%8b%89-%ed%8b%b0%ed%83%80%eb%8a%84-%ed%94%8c%eb%a0%88%ec%9d%b4%ed%8a%b8%ec%8a%a4%ed%83%a0%eb%8b%a4%eb%93%9c%ed%8c%a9",
+      "slug": "tinsb-%eb%8b%88%eb%aa%a8%eb%8b%89-%ed%8b%b0%ed%83%80%eb%8a%84-%ed%94%8c%eb%a0%88%ec%9d%b4%ed%8a%b8%ec%8a%a4%ed%83%a0%eb%8b%a4%eb%93%9c%ed%8c%a9",
+      "title": {
+        "rendered": "TINSB 티타늄 니모닉 플레이트-스탠다드팩 (링크제품)"
+      },
+      "excerpt": {
+        "rendered": "<div>\n<p><span lang=\"EN-US\">TINSB </span>니모닉 티타늄 플레이트<span lang=\"EN-US\">(</span>스탠다드팩<span lang=\"EN-US\">)</span> (링커 : 틴스비)</p>\n<div>\n<div>이것은 제품을 소개하는 목적의 링크 제품으로 <strong>실제 구매는 사토시마켓이 아닌 아래 판매자 웹사이트로 이동하여 진행</strong>하셔야 합니다.</div>\n<div></div>\n<div>판매자 웹사이트 방문하기 : <a href=\"https://store.btcmap.kr/stores/TINSB/product/14/\">https://store.btcmap.kr/stores/TINSB/product/14/</a></div>\n</div>\n<div></div>\n<div>사토시 마켓은 본 제품의 판매에</div>\n<div>어떠한 대가도 받지 않습니다.</div>\n<div></div>\n<div>배송료 포함 가격입니다.</div>\n<div></div>\n<div>❓배송 등 문의사항 카톡링크<span lang=\"EN-US\">(</span>틴스비 고객센터<span lang=\"EN-US\">) : </span><span lang=\"EN-US\"><a href=\"https://open.kakao.com/o/s4hFO55g\">https://open.kakao.com/o/s4hFO55g</a></span></div>\n</div>\n<div></div>\n",
+        "protected": false
+      },
+      "featured_media": 2631,
+      "archiveImage": "assets/1.---a9bb387002.jpg"
+    },
+    {
+      "id": 1962,
+      "date": "2024-11-19T20:19:30",
+      "modified": "2025-03-16T21:41:13",
+      "link": "https://satoshimarket.biz/ecommerce/product/%ec%8b%a4%eb%ac%bc%ec%b1%85-%ec%98%88%ec%95%bd%ed%95%a0%ec%9d%b8%ed%8c%90%eb%a7%a4-%eb%b8%94%eb%a1%9d%ec%82%ac%ec%9d%b4%ec%a6%88%ec%9b%8c",
+      "slug": "%ec%8b%a4%eb%ac%bc%ec%b1%85-%ec%98%88%ec%95%bd%ed%95%a0%ec%9d%b8%ed%8c%90%eb%a7%a4-%eb%b8%94%eb%a1%9d%ec%82%ac%ec%9d%b4%ec%a6%88%ec%9b%8c",
+      "title": {
+        "rendered": "비트코인 블록사이즈 전쟁 THE BLOCKSIZE WAR (링크 제품)"
+      },
+      "excerpt": {
+        "rendered": "<div>\n<div><span style=\"color: #000000\">비트코인 블록사이즈 전쟁 THE BLOCKSIZE WAR (링커 : 포우팀)</span></div>\n<div><span style=\"color: #000000\">이것은 제품을 소개하는 목적의 링크 제품으로 실제 구매는 사토시마켓이 아닌 아래 판매자 웹사이트로 이동하여 진행하셔야 합니다.</span></div>\n<div></div>\n<div><span style=\"color: #000000\">판매자 웹사이트 방문하기 : <a href=\"https://product.kyobobook.co.kr/detail/S000214843763\">https://product.kyobobook.co.kr/detail/S000214843763</a></span></div>\n<div><span style=\"color: #000000\">사토시마켓은 본 제품의 판매에 대해 어떠한 대가도 받지 않습니다. </span></div>\n</div>\n<p>&nbsp;</p>\n",
+        "protected": false
+      },
+      "featured_media": 1963,
+      "archiveImage": "assets/missing.svg"
+    },
+    {
+      "id": 1835,
+      "date": "2024-09-02T19:18:44",
+      "modified": "2025-04-15T20:46:46",
+      "link": "https://satoshimarket.biz/ecommerce/product/%ea%b8%b0%eb%b6%80%ed%95%98%ea%b8%b0",
+      "slug": "%ea%b8%b0%eb%b6%80%ed%95%98%ea%b8%b0",
+      "title": {
+        "rendered": "사토시마켓에 기부하기"
+      },
+      "excerpt": {
+        "rendered": "<p>당분간 사토시 마켓에 기부금 받기를 중단합니다.</p>\n<p>그간 기부해주신 많은 분들 모두 감사드립니다!</p>\n",
+        "protected": false
+      },
+      "featured_media": 1618,
+      "archiveImage": ""
+    },
+    {
+      "id": 507,
+      "date": "2023-04-11T13:03:06",
+      "modified": "2025-01-13T21:33:48",
+      "link": "https://satoshimarket.biz/ecommerce/product/%ec%a0%84%ec%9e%90%ec%b1%85-%ea%b6%81%ea%b8%88%ed%95%b4%ec%9a%94-%eb%b9%84%ed%8a%b8%ec%bd%94%ec%9d%b8-%ec%b4%88%eb%b3%b4%ec%9e%90%eb%a5%bc-%ec%9c%84%ed%95%9c-%eb%b9%84%ed%8a%b8%ec%bd%94%ec%9d%b8",
+      "slug": "%ec%a0%84%ec%9e%90%ec%b1%85-%ea%b6%81%ea%b8%88%ed%95%b4%ec%9a%94-%eb%b9%84%ed%8a%b8%ec%bd%94%ec%9d%b8-%ec%b4%88%eb%b3%b4%ec%9e%90%eb%a5%bc-%ec%9c%84%ed%95%9c-%eb%b9%84%ed%8a%b8%ec%bd%94%ec%9d%b8",
+      "title": {
+        "rendered": "[전자책] 궁금해요? 비트코인! &#8211; 초보자를 위한 비트코인 FAQ"
+      },
+      "excerpt": {
+        "rendered": "<div>궁금해요? 비트코인! – 초보자를 위한 비트코인 FAQ [스폰서]</div>\n<div></div>\n<div>전자지갑 테스트용 제품입니다.</div>\n<div></div>\n<p>구입하실 때 기재한 메일로 14일간 전자책 다운로드 링크가 제공됩니다.</p>\n<p>다운로드 링크가 만료된 이후엔 재구매가 필요하니 주의하세요.</p>\n<p>링크가 오지 않을 때는 우선 스팸함을 확인해 주세요.</p>\n",
+        "protected": false
+      },
+      "featured_media": 509,
+      "archiveImage": "assets/v3-scaled-e1681186523327-2ff6eb26a7.jpg"
+    },
+    {
+      "id": 105,
+      "date": "2023-03-25T17:15:49",
+      "modified": "2025-01-13T22:25:32",
+      "link": "https://satoshimarket.biz/ecommerce/product/%eb%9d%bc%ec%9d%b4%ed%8a%b8%eb%8b%9d-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ea%b2%b0%ec%a0%9c",
+      "slug": "%eb%9d%bc%ec%9d%b4%ed%8a%b8%eb%8b%9d-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ea%b2%b0%ec%a0%9c",
+      "title": {
+        "rendered": "나의 라이트닝 지갑 테스트 하기"
+      },
+      "excerpt": {
+        "rendered": "<p>지갑이 제대로 동작하는지 테스트 해보<span>고</span><span> $2.99 </span>상당의 멋진 선물도 받아가세요</p>\n",
+        "protected": false
+      },
+      "featured_media": 1613,
+      "archiveImage": "assets/img_2813-4de2ab052c.jpeg"
+    }
+  ]
+}
